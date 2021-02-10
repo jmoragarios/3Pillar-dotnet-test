@@ -1,0 +1,5 @@
+Practica
+- Arreglar los errores existentes en el servicio de autos y estructurar el servicio considerando los principios de SOLID.
+- Listar en la tabla HTML de la vista "Index" todos los autos existentes en la BD (utilizando el procedimiento almacenado) consumiendo el WCF de Autos.
+- Agregar el campo "cantidad" en la tabla Autos (Base de Datos) y mostrarlo en la tabla HTML de la vista "Index".
+
